@@ -1,5 +1,11 @@
 ﻿namespace Stacks
 {
+    // Design a stack that, in addition to the standard Push and Pop operations, supports a GetMax operation that returns the maximum element in the stack in constant time.
+    // Implement the following methods:
+    // void Push(int item): Push an element onto the stack.
+    // int Pop(): Remove and return the element on top of the stack.
+    // int GetMax(): Return the maximum element currently in the stack.
+    // All operations must run in O(1) time.
     // O(1) time for Push(), Pop(), and GetMax().
     // O(m) additional space, where m is the number of operations performed on the stack.
     public class MaxStack
