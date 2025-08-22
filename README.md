@@ -1,5 +1,5 @@
-# {Stacks}
-A collection of {topic} problems and solutions in C#.
+# Stacks
+A collection of Stack problems and solutions in C#.
 
 ## Topics Covered
 - stacks, exploring their concepts, implementation
