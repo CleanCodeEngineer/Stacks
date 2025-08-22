@@ -12,4 +12,4 @@ A collection of Stack problems and solutions in C#.
 ## How to Run
 Clone the repo and open in Visual Studio / VS Code:
 ```bash
-git clone https://github.com/CleanCodeEngineer/{Stacks}.git
+git clone https://github.com/CleanCodeEngineer/Stacks.git
